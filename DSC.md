@@ -21,6 +21,8 @@ As deep neural networks grow in complexity to handle a diverse array of visual i
 
 
 # Depthwise-separable convolution technique
+
 The depthwise-separable convolution technique—combining depthwise and pointwise convolutions—maintains the spatial receptive field while significantly cutting down on computation. Notably, a depthwise separable convolution is approximately nine times more efficient than a standard 3x3 convolution, making it particularly valuable for modern architectures like EfficientNet.
+![image](https://github.com/user-attachments/assets/15403d8e-0259-40b6-85d3-6209d2ef604b)
 
 In conclusion, understanding and implementing depthwise and depthwise separable convolutions can lead to substantial performance gains in deep learning applications. For visual learners, new resources such as animations of these concepts are now available to facilitate comprehension and application in educational settings. As we explore further advancements in neural network design, the efficient use of these convolution techniques will undoubtedly play a crucial role.
