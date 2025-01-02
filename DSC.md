@@ -17,7 +17,6 @@ As deep neural networks grow in complexity to handle a diverse array of visual i
 ![image](https://github.com/user-attachments/assets/7ae608a7-0c00-4a61-80e5-4ca1cb8efa9e)
 ![image](https://github.com/user-attachments/assets/f6b9b2dd-7e1e-43de-82ef-a7e4d0b72694)
 ![image](https://github.com/user-attachments/assets/bac3b5d5-ede7-486a-80aa-e3a3b5437ab6)
-![image](https://github.com/user-attachments/assets/88181d47-8e7b-4ea4-bb58-155fa77186a4)
 
 
 
