@@ -10,7 +10,7 @@ As deep neural networks grow in complexity to handle a diverse array of visual i
 ![image](https://github.com/user-attachments/assets/a43735ac-818f-4bec-8553-ddc8696b2628)
 
 
-# 
+# Depthwise convolution
 The discussion advances to depthwise convolution, which takes this grouping concept to an extreme. In this approach, each output feature is associated with only its corresponding input feature, limiting the expressive power compared to single-group convolutions. However, this is where pointwise convolution comes into play. By following each depthwise convolution with a one-by-one pointwise convolution, we can reintroduce the interaction between features without significantly increasing the computational load.
 ![image](https://github.com/user-attachments/assets/ef2175f1-bd8e-4b1a-917f-8c630ced2311)
 ![image](https://github.com/user-attachments/assets/7ae608a7-0c00-4a61-80e5-4ca1cb8efa9e)
