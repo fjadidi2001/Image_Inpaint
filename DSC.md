@@ -36,3 +36,7 @@ The depthwise-separable convolution technique combines depthwise and pointwise c
 Understanding and implementing depthwise and depthwise separable convolutions can lead to substantial performance gains in deep learning applications. For visual learners, new resources such as animations of these concepts are now available to facilitate comprehension and application in educational settings. As we continue to explore advancements in neural network design, the efficient use of these convolution techniques will undoubtedly play a crucial role in shaping the future of deep learning. 
 
 ![Conclusion](https://github.com/user-attachments/assets/c76f08fc-5bdc-439a-a9ec-657bba0e9b9e)
+
+# Reference
+
+[Watch the Video](https://youtu.be/vVaRhZXovbw?si=-OmKacfpk8M64yiP)
