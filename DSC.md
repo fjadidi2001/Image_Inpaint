@@ -6,7 +6,9 @@ As deep neural networks grow in complexity to handle a diverse array of visual i
 # split into two groups
 ![image](https://github.com/user-attachments/assets/605ef52c-e23e-42ec-835e-69557753e1af)
 
-# 
+# concatinate groups
+![image](https://github.com/user-attachments/assets/a43735ac-818f-4bec-8553-ddc8696b2628)
+
 The discussion advances to depthwise convolution, which takes this grouping concept to an extreme. In this approach, each output feature is associated with only its corresponding input feature, limiting the expressive power compared to single-group convolutions. However, this is where pointwise convolution comes into play. By following each depthwise convolution with a one-by-one pointwise convolution, we can reintroduce the interaction between features without significantly increasing the computational load.
 
 The depthwise-separable convolution technique—combining depthwise and pointwise convolutions—manages to maintain the spatial receptive field while significantly cutting down on computation. Notably, a depthwise separable convolution is approximately nine times more efficient than a standard 3x3 convolution, making it particularly valuable for modern architectures like EfficientNet.
