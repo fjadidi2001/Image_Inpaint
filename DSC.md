@@ -1,4 +1,4 @@
-> In the realm of deep learning and convolutional neural networks (CNNs), the concept of groups is essential for optimizing performance and efficiency. This article delves into the significance of groups and how they lead to the innovations of depthwise and depthwise separable convolutions.
+> In the realm of deep learning and convolutional neural networks (CNNs), the concept of groups is essential for **optimizing performance and efficiency**. This article delves into the significance of groups and how they lead to the innovations of depthwise and depthwise separable convolutions.
 
 As deep neural networks grow in complexity to handle a diverse array of visual inputs, the challenge of managing computational efficiency becomes evident. Specifically, as the number of features increases—both at the input and output layers—so does the computational demand. For instance, doubling the input features results in a quadrupling of computational work, as both the depth of the filters and their quantity expand.
 
