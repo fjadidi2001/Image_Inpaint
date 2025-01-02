@@ -2,7 +2,7 @@
 
 As deep neural networks grow in complexity to handle a diverse array of visual inputs, the challenge of managing computational efficiency becomes evident. Specifically, as the number of features increases—both at the input and output layers—so does the computational demand. For instance, doubling the input features results in a quadrupling of computational work, as both the depth of the filters and their quantity expand.
 
-To tackle this issue, researchers devised a strategy: splitting the input features into distinct groups. For example, if the input is divided into two groups, each filter only processes one group at a time. This partitioning reduces the computation needed per filter, leading to performance improvements.
+> To tackle this issue, researchers devised a strategy: splitting the input features into distinct groups. For example, if the input is divided into two groups, each filter only processes one group at a time. This partitioning reduces the computation needed per filter, leading to performance improvements.
 
 The discussion advances to depthwise convolution, which takes this grouping concept to an extreme. In this approach, each output feature is associated with only its corresponding input feature, limiting the expressive power compared to single-group convolutions. However, this is where pointwise convolution comes into play. By following each depthwise convolution with a one-by-one pointwise convolution, we can reintroduce the interaction between features without significantly increasing the computational load.
 
