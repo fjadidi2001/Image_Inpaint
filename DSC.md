@@ -3,10 +3,10 @@
 As deep neural networks grow in complexity to handle a diverse array of visual inputs, the challenge of managing computational efficiency becomes evident. Specifically, as the number of features increases—both at the input and output layers—so does the computational demand. For instance, doubling the input features results in a quadrupling of computational work, as both the depth of the filters and their quantity expand.
 
 > To tackle this issue, researchers devised a strategy: **splitting the input features into distinct groups.** For example, if the input is divided into two groups, each filter only processes one group at a time. This partitioning reduces the computation needed per filter, leading to performance improvements.
-# Divide into two distinct groups
+## Divide into two distinct groups
 ![image](https://github.com/user-attachments/assets/605ef52c-e23e-42ec-835e-69557753e1af)
 
-# Aggregate groups
+## Aggregate groups
 ![image](https://github.com/user-attachments/assets/a43735ac-818f-4bec-8553-ddc8696b2628)
 
 
