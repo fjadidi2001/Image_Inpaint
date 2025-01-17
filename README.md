@@ -30,8 +30,6 @@ Welcome to the **Image Inpaint** repository! This repository is dedicated to ima
 ## Contributions
 Feel free to submit issues or pull requests to improve the repository. Contributions are welcome!
 
-## License
-This project is licensed under the [MIT License](LICENSE).
 
 # <notebook_name>.ipynb`
 
