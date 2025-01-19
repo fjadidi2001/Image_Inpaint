@@ -31,7 +31,7 @@ Welcome to the **Image Inpaint** repository! This repository is dedicated to ima
 Feel free to submit issues or pull requests to improve the repository. Contributions are welcome!
 
 
-# <notebook_name>.ipynb`
+# <notebook_name>.ipynb
 
 ## Overview
 This script/notebook implements the `<model_name>` approach for image inpainting. It focuses on restoring missing regions in images using advanced machine-learning techniques.
