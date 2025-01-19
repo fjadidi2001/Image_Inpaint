@@ -42,9 +42,5 @@ This script/notebook implements the `<model_name>` approach for image inpainting
 1. Ensure the dataset is prepared.
 2. Run the file:
    ```bash
-   python <script_name>.py
-   ```
-   OR
-   ```bash
    jupyter notebook <notebook_name>.ipynb
    ```
