@@ -11,7 +11,7 @@ Welcome to the **Image Inpaint** repository! This repository is dedicated to ima
 - `/notebooks/`: Contains experimental Jupyter notebooks for different inpainting models.
 - `/data/`: Example datasets for training and testing.
 - `/models/`: Saved model architectures and weights.
-- `/utils/`: Helper scripts for preprocessing, visualization, and evaluation.
+- `/utils/`: Helper preprocessing, visualization, and evaluation scripts.
 - `requirements.txt`: Python dependencies.
 
 ## Models
