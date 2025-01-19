@@ -25,11 +25,8 @@ Welcome to the **Image Inpaint** repository! This repository is dedicated to ima
    git clone https://github.com/fjadidi2001/Image_Inpaint.git
    ```
 
-
-
 ## Contributions
 Feel free to submit issues or pull requests to improve the repository. Contributions are welcome!
-
 
 # <notebook_name>.ipynb
 
