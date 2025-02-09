@@ -19,7 +19,6 @@ Welcome to the **Image Inpaint** repository! This repository is dedicated to ima
 2. **xLSTM**: Enhanced temporal models for sequential inpainting.
 3. **GANs**: Generative adversarial networks for high-quality results.
 
-
 ## Installation
 1. Clone the repository:
    ```bash
