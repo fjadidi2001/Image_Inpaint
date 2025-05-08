@@ -6,7 +6,7 @@ Welcome to the **Image Inpaint** repository! This repository is dedicated to ima
 - Implementation of multiple image inpainting architectures.
 - Comprehensive experiments and evaluations.
 - Jupyter notebooks for easy experimentation and customization.
-
+<br>
 ## Repository Structure
 - `/notebooks/`: Contains experimental Jupyter notebooks for different inpainting models.
 - `/data/`: Example datasets for training and testing.
