@@ -43,5 +43,3 @@ This script/notebook implements the `<model_name>` approach for image inpainting
    jupyter notebook <notebook_name>.ipynb
    ```
 
-
-.
