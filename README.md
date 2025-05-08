@@ -44,4 +44,4 @@ This script/notebook implements the `<model_name>` approach for image inpainting
    ```
 
 
-
+.
