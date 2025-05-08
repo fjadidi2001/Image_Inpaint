@@ -1,5 +1,4 @@
 # Image Inpaint Repository
-
 Welcome to the **Image Inpaint** repository! This repository is dedicated to image inpainting techniques and experiments using various machine learning models, including U-Net, xLSTM, and GAN-based methods.
 
 ## Features
