@@ -33,6 +33,7 @@ Feel free to submit issues or pull requests to improve the repository. Contribut
 ## Overview
 This script/notebook implements the `<model_name>` approach for image inpainting. It focuses on restoring missing regions in images using advanced machine-learning techniques.
 
+
 ## Features
 - Implements `<specific_feature>`.
 - Provides results visualizations.
